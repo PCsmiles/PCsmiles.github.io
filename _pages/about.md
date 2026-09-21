@@ -45,4 +45,3 @@ My research focuses on **metal additive manufacturing** — laser powder bed fus
 # 🛠 Selected Projects
 - **Thermal-driven new-energy vehicle** (team lead, 2024.05 – 2025.08) — SolidWorks assembly of 500+ parts and a MATLAB-generated cam trajectory for steering; 10 ml of 95% alcohol drives the 4 kg car for about one hour.
 - **Smart equipment design & digital-twin manufacturing** (2024.05 – 2024.08) — a 3-axis CNC milling machine modelled in 3D-Builder with collision detection, Siemens PLC programming in TIA Portal, and machining simulation in CMVM.
-- **Tools I build for myself** — [weekly-timetable](https://github.com/PCsmiles/weekly-timetable) · [class-transcribe](https://github.com/PCsmiles/class-transcribe) · [deepseek-webui](https://github.com/PCsmiles/deepseek-webui)
